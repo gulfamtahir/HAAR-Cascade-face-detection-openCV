@@ -1,6 +1,3 @@
-Here's a sample `README.md` for your GitHub repository "HAAR-Cascade-face-detection-openCV" based on the description you've provided:
-
----
 
 # HAAR-Cascade Face Detection using OpenCV
 
@@ -11,7 +8,6 @@ This repository contains optimized code for detecting faces and eyes separately 
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Examples](#examples)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -81,6 +77,3 @@ Contributions are welcome! If you find bugs or have feature requests, feel free 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-You can modify the links and image paths according to your project specifics, and adjust any arguments or code usage based on the actual functionality of your repository.
